@@ -1,6 +1,8 @@
 # HttpClientImpersonation
 .NET Framework 4.8 and .NET 6 samples to impersonate Windows authenticated users in an ASP.NET application
 
+The samples are relevant to this .NET Runtime issue: https://github.com/dotnet/runtime/issues/74078
+
 ## Proxy functionality
 Both applications represent a kind of "impersonating" reverse proxy.
 
